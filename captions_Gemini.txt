@@ -1,0 +1,28 @@
+snapshot_2026-01-05_12-45-08.jpeg:: Obstacle detected on road.:: 1.240544
+snapshot_2026-01-05_12-45-20.jpeg:: Road ahead is clear.:: 0.833748
+snapshot_2026-01-05_12-45-23.jpeg:: Construction ahead.:: 0.756605
+snapshot_2026-01-05_12-45-26.jpeg:: Construction barrels on right side.:: 0.602858
+snapshot_2026-01-05_12-45-29.jpeg:: Traffic light is red.:: 0.799034
+snapshot_2026-01-05_12-45-32.jpeg:: Obstruction ahead, proceed with caution.:: 0.820859
+snapshot_2026-01-05_12-45-35.jpeg:: Obstacle detected on road ahead.:: 0.570648
+snapshot_2026-01-05_12-45-38.jpeg:: Streetlights ahead.:: 0.857659
+snapshot_2026-01-05_12-45-41.jpeg:: Power lines above road.:: 0.820091
+snapshot_2026-01-05_12-45-44.jpeg:: Construction ahead, lane closure.:: 0.920397
+snapshot_2026-01-05_12-45-47.jpeg:: Construction zone ahead.:: 1.886691
+snapshot_2026-01-05_12-45-50.jpeg:: Construction cones on road ahead.:: 0.713519
+snapshot_2026-01-05_12-45-53.jpeg:: Vending machine detected on sidewalk.:: 0.646455
+snapshot_2026-01-05_12-45-56.jpeg:: Road hazard ahead.:: 0.895747
+snapshot_2026-01-05_12-45-59.jpeg:: Sharp turn ahead.:: 0.663174
+snapshot_2026-01-05_12-46-02.jpeg:: Obstacle in path ahead.:: 0.81995
+snapshot_2026-01-05_12-46-05.jpeg:: Road hazard ahead.:: 1.021041
+snapshot_2026-01-05_12-46-08.jpeg:: Sharp curve ahead.:: 0.818931
+snapshot_2026-01-05_12-46-11.jpeg:: Obstacle detected ahead.:: 0.816558
+snapshot_2026-01-05_12-46-14.jpeg:: Cow on road ahead.:: 1.02361
+snapshot_2026-01-05_12-46-17.jpeg:: Cow on road ahead.:: 0.713824
+snapshot_2026-01-05_12-46-20.jpeg:: Cows on road ahead.:: 0.918457
+snapshot_2026-01-05_12-46-23.jpeg:: Animal on road ahead.:: 0.699113
+snapshot_2026-01-05_12-46-26.jpeg:: Cow on road ahead.:: 0.734238
+snapshot_2026-01-05_12-46-29.jpeg:: Cow on road ahead.:: 0.818542
+snapshot_2026-01-05_12-46-32.jpeg:: Animal on road.:: 0.632741
+snapshot_2026-01-05_12-46-35.jpeg:: Traffic light ahead.:: 0.799076
+snapshot_2026-01-05_12-46-38.jpeg:: Barrier ahead.:: 0.610803

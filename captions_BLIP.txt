@@ -1,0 +1,28 @@
+snapshot_2026-01-05_12-45-08.jpeg:: a street with buildings and a car:: 0.695391
+snapshot_2026-01-05_12-45-20.jpeg:: a street with buildings and a car:: 0.256463
+snapshot_2026-01-05_12-45-23.jpeg:: a street with buildings and a car:: 0.283666
+snapshot_2026-01-05_12-45-26.jpeg:: a street with buildings and a car:: 0.274763
+snapshot_2026-01-05_12-45-29.jpeg:: a street scene with buildings and a yellow traffic light:: 0.374902
+snapshot_2026-01-05_12-45-32.jpeg:: a street scene with buildings and a crosswalk:: 0.310063
+snapshot_2026-01-05_12-45-35.jpeg:: a street with buildings and a car:: 0.252742
+snapshot_2026-01-05_12-45-38.jpeg:: a street with buildings and a car:: 0.259867
+snapshot_2026-01-05_12-45-41.jpeg:: a street with buildings and a car:: 0.262921
+snapshot_2026-01-05_12-45-44.jpeg:: a street with buildings and a car:: 0.258112
+snapshot_2026-01-05_12-45-47.jpeg:: a street scene with a car and a building:: 0.304889
+snapshot_2026-01-05_12-45-50.jpeg:: a cartoon of a man in a construction site:: 0.306728
+snapshot_2026-01-05_12-45-53.jpeg:: a street with a red door and a red car:: 0.335656
+snapshot_2026-01-05_12-45-56.jpeg:: a computer game showing a street with buildings:: 0.284348
+snapshot_2026-01-05_12-45-59.jpeg:: a street sign with a yellow arrow pointing to the left:: 0.373191
+snapshot_2026-01-05_12-46-02.jpeg:: a green building with a white roof and a white door:: 0.368927
+snapshot_2026-01-05_12-46-05.jpeg:: a street with a fire hydra and a fire hydra:: 0.337424
+snapshot_2026-01-05_12-46-08.jpeg:: a street with a yellow sign and a street sign:: 0.327222
+snapshot_2026-01-05_12-46-11.jpeg:: a room with stairs and a staircase:: 0.306834
+snapshot_2026-01-05_12-46-14.jpeg:: a street with a car and a building:: 0.299543
+snapshot_2026-01-05_12-46-17.jpeg:: a street with a car and a building in the background:: 0.357128
+snapshot_2026-01-05_12-46-20.jpeg:: a screenshot of a street with a cow in the middle:: 0.393358
+snapshot_2026-01-05_12-46-23.jpeg:: a street with a yellow building in the background:: 0.315812
+snapshot_2026-01-05_12-46-26.jpeg:: a cartoon character in a yellow shirt and black pants:: 0.329083
+snapshot_2026-01-05_12-46-29.jpeg:: a dog walking down the street in a city:: 0.30179
+snapshot_2026-01-05_12-46-32.jpeg:: a cow standing on a road:: 0.228556
+snapshot_2026-01-05_12-46-35.jpeg:: a plane is flying over the ocean:: 0.255424
+snapshot_2026-01-05_12-46-38.jpeg:: a street scene with a building and a car:: 0.30945

@@ -1,0 +1,28 @@
+snapshot_2026-01-05_12-45-08.jpeg:: Traffic light ahead is green:: 1.044099
+snapshot_2026-01-05_12-45-20.jpeg:: Clear road ahead:: 0.880759
+snapshot_2026-01-05_12-45-23.jpeg:: Vehicle stopped ahead in lane:: 0.920288
+snapshot_2026-01-05_12-45-26.jpeg:: Traffic light ahead showing green:: 1.748217
+snapshot_2026-01-05_12-45-29.jpeg:: Road construction ahead:: 0.912859
+snapshot_2026-01-05_12-45-32.jpeg:: Empty intersection ahead:: 0.915553
+snapshot_2026-01-05_12-45-35.jpeg:: Clear intersection ahead:: 0.820676
+snapshot_2026-01-05_12-45-38.jpeg:: Traffic light ahead is red:: 0.829774
+snapshot_2026-01-05_12-45-41.jpeg:: Traffic light ahead showing red:: 0.83125
+snapshot_2026-01-05_12-45-44.jpeg:: No parking zone ahead:: 0.633655
+snapshot_2026-01-05_12-45-47.jpeg:: No left turn at upcoming intersection:: 0.669851
+snapshot_2026-01-05_12-45-50.jpeg:: Construction zone and road barriers detected ahead:: 0.818641
+snapshot_2026-01-05_12-45-53.jpeg:: Vending machine on sidewalk ahead:: 0.91666
+snapshot_2026-01-05_12-45-56.jpeg:: Sharp turn ahead signs detected on right side:: 1.125806
+snapshot_2026-01-05_12-45-59.jpeg:: Stop sign and left turn arrows ahead:: 0.915816
+snapshot_2026-01-05_12-46-02.jpeg:: Obstacle detected near sidewalk ahead:: 0.666051
+snapshot_2026-01-05_12-46-05.jpeg:: Intersection ahead with left curve sign:: 0.673258
+snapshot_2026-01-05_12-46-08.jpeg:: Left curve ahead sign detected:: 1.119
+snapshot_2026-01-05_12-46-11.jpeg:: Trash bin beside driveway ahead:: 0.919574
+snapshot_2026-01-05_12-46-14.jpeg:: Crosswalk ahead with pedestrian nearby:: 0.806822
+snapshot_2026-01-05_12-46-17.jpeg:: Cattle standing on road ahead:: 0.828762
+snapshot_2026-01-05_12-46-20.jpeg:: Cattle near the road on the right side:: 0.819549
+snapshot_2026-01-05_12-46-23.jpeg:: Vehicle moving ahead in right lane:: 0.816367
+snapshot_2026-01-05_12-46-26.jpeg:: Cow crossing ahead:: 0.714072
+snapshot_2026-01-05_12-46-29.jpeg:: Cow crossing the street ahead:: 0.749083
+snapshot_2026-01-05_12-46-32.jpeg:: Cow on crosswalk ahead:: 0.888423
+snapshot_2026-01-05_12-46-35.jpeg:: Clear road ahead:: 0.817265
+snapshot_2026-01-05_12-46-38.jpeg:: Level crossing ahead, barriers lowered:: 1.023837
